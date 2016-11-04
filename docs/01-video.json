@@ -1,0 +1,3624 @@
+{
+  "message": "success",
+  "data": {
+    "has_more": true,
+    "tip": "20条新内容",
+    "has_new_message": true,
+    "max_time": 1477019536.8100002,
+    "min_time": 1477019537,
+    "data": [
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=219480f0c0ca4a1dbcbede95fd7e574a&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=219480f0c0ca4a1dbcbede95fd7e574a&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/219480f0c0ca4a1dbcbede95fd7e574a",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=219480f0c0ca4a1dbcbede95fd7e574a&quality=480p&line=0&is_gif=0.mp4",
+          "text": "单身久了是一种什么感觉？",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=219480f0c0ca4a1dbcbede95fd7e574a&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=219480f0c0ca4a1dbcbede95fd7e574a&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/219480f0c0ca4a1dbcbede95fd7e574a",
+            "height": 360
+          },
+          "digg_count": 19074,
+          "duration": 206.6,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=219480f0c0ca4a1dbcbede95fd7e574a&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=219480f0c0ca4a1dbcbede95fd7e574a&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/219480f0c0ca4a1dbcbede95fd7e574a",
+            "height": 360
+          },
+          "create_time": 1476933791,
+          "keywords": "",
+          "id": 51715806998,
+          "favorite_count": 5098,
+          "go_detail_count": 62946,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p9.pstatp.com/large/f880010c7a33259408e"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f880010c7a33259408e"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f880010c7a33259408e"
+              }
+            ],
+            "uri": "large/f880010c7a33259408e"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "单身久了是一种什么感觉？",
+          "user": {
+            "user_id": 3996064779,
+            "name": "一风之音",
+            "followings": 0,
+            "ugc_count": 206,
+            "avatar_url": "http://tp2.sinaimg.cn/2021654081/50/5688176504/1",
+            "followers": 130337,
+            "is_following": false,
+            "user_verified": true
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51715806998/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "单身久了是一种什么感觉？",
+          "video_height": 360,
+          "comment_count": 1103,
+          "cover_image_uri": "f880010c7a33259408e",
+          "id_str": "51715806998",
+          "media_type": 3,
+          "share_count": 14306,
+          "type": 2,
+          "category_id": 65,
+          "status": 112,
+          "has_comments": 1,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 318,
+              "title": "明星"
+            },
+            {
+              "type": 1,
+              "id": 363,
+              "title": "配音"
+            },
+            {
+              "type": 2,
+              "id": 65,
+              "title": "吧:搞笑视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3996064779,
+              "title": "作者:一风之音"
+            }
+          ],
+          "play_count": 1219168,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p9.pstatp.com/w202/f880010c7a33259408e"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f880010c7a33259408e"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f880010c7a33259408e"
+              }
+            ],
+            "uri": "medium/f880010c7a33259408e"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476933791,
+          "category_name": "搞笑视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 1467,
+          "is_anonymous": false,
+          "repin_count": 5098,
+          "uri": "219480f0c0ca4a1dbcbede95fd7e574a",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=219480f0c0ca4a1dbcbede95fd7e574a&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=219480f0c0ca4a1dbcbede95fd7e574a&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/219480f0c0ca4a1dbcbede95fd7e574a",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51715806998,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [
+          {
+            "text": "熟人不敢下手，生人不敢开口，无奈",
+            "create_time": 1476936002,
+            "user_verified": false,
+            "user_bury": 0,
+            "user_id": 6270372240,
+            "bury_count": 0,
+            "share_url": "http://m.neihanshequ.com/share/group/51715806998/?comment_id=51716545228",
+            "id": 51716545228,
+            "platform": "feifei",
+            "is_digg": 0,
+            "user_name": "多弗朗明哥m",
+            "user_profile_image_url": "http://p3.pstatp.com/thumb/ef700057f12b61f0d89",
+            "status": 5,
+            "description": "这个人很帅，什么也没有留下",
+            "comment_id": 51716545228,
+            "user_digg": 0,
+            "user_profile_url": "",
+            "share_type": 1,
+            "digg_count": 22912,
+            "platform_id": "feifei",
+            "avatar_url": "http://p3.pstatp.com/thumb/ef700057f12b61f0d89",
+            "group_id": 51715806998
+          }
+        ],
+        "type": 1,
+        "display_time": 1477019537,
+        "online_time": 1477019537
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c44856dfaa7641269c58e1bc9edfa34f&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c44856dfaa7641269c58e1bc9edfa34f&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/c44856dfaa7641269c58e1bc9edfa34f",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c44856dfaa7641269c58e1bc9edfa34f&quality=480p&line=0&is_gif=0.mp4",
+          "text": "专业恶搞女生绕口令，一定要听听",
+          "720p_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c44856dfaa7641269c58e1bc9edfa34f&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c44856dfaa7641269c58e1bc9edfa34f&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/c44856dfaa7641269c58e1bc9edfa34f",
+            "height": 360
+          },
+          "digg_count": 20234,
+          "duration": 267.84,
+          "480p_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c44856dfaa7641269c58e1bc9edfa34f&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c44856dfaa7641269c58e1bc9edfa34f&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/c44856dfaa7641269c58e1bc9edfa34f",
+            "height": 360
+          },
+          "create_time": 1476785627,
+          "keywords": "",
+          "id": 51672770964,
+          "favorite_count": 19819,
+          "go_detail_count": 80088,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f3e000cec141f63ab95"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f3e000cec141f63ab95"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3e000cec141f63ab95"
+              }
+            ],
+            "uri": "large/f3e000cec141f63ab95"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "专业恶搞女生绕口令，一定要听听",
+          "user": {
+            "user_id": 3511417023,
+            "name": "狗头大军中南亚总司令",
+            "followings": 3,
+            "ugc_count": 21,
+            "avatar_url": "http://p3.pstatp.com/thumb/ef40000e9b460730cc5",
+            "followers": 2070,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51672770964/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "专业恶搞女生绕口令，一定要听听",
+          "video_height": 360,
+          "comment_count": 1708,
+          "cover_image_uri": "f3e000cec141f63ab95",
+          "id_str": "51672770964",
+          "media_type": 3,
+          "share_count": 52946,
+          "type": 2,
+          "category_id": 65,
+          "status": 103,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 319,
+              "title": "恶搞"
+            },
+            {
+              "type": 2,
+              "id": 65,
+              "title": "吧:搞笑视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3511417023,
+              "title": "作者:狗头大军中南亚总司令"
+            }
+          ],
+          "play_count": 1271978,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f3e000cec141f63ab95"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f3e000cec141f63ab95"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3e000cec141f63ab95"
+              }
+            ],
+            "uri": "medium/f3e000cec141f63ab95"
+          },
+          "user_digg": 0,
+          "video_width": 480,
+          "online_time": 1476804793,
+          "category_name": "搞笑视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 2519,
+          "is_anonymous": false,
+          "repin_count": 19819,
+          "uri": "c44856dfaa7641269c58e1bc9edfa34f",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c44856dfaa7641269c58e1bc9edfa34f&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c44856dfaa7641269c58e1bc9edfa34f&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/c44856dfaa7641269c58e1bc9edfa34f",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51672770964,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.99,
+        "online_time": 1477019536.99
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=518909b66fdd4fe7ae803e0218ed5e43&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=518909b66fdd4fe7ae803e0218ed5e43&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/518909b66fdd4fe7ae803e0218ed5e43",
+            "height": 272
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=518909b66fdd4fe7ae803e0218ed5e43&quality=480p&line=0&is_gif=0.mp4",
+          "text": "这个我保存了，今天我才21岁，以后和老婆吵架了我就要来看看",
+          "720p_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=518909b66fdd4fe7ae803e0218ed5e43&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=518909b66fdd4fe7ae803e0218ed5e43&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/518909b66fdd4fe7ae803e0218ed5e43",
+            "height": 272
+          },
+          "digg_count": 58560,
+          "duration": 99.4,
+          "480p_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=518909b66fdd4fe7ae803e0218ed5e43&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=518909b66fdd4fe7ae803e0218ed5e43&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/518909b66fdd4fe7ae803e0218ed5e43",
+            "height": 272
+          },
+          "create_time": 1475165562,
+          "keywords": "",
+          "id": 51190777023,
+          "favorite_count": 18219,
+          "go_detail_count": 86762,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/eed0000103d28fbea10"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/eed0000103d28fbea10"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/eed0000103d28fbea10"
+              }
+            ],
+            "uri": "large/eed0000103d28fbea10"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "这个我保存了，今天我才21岁，以后和老婆吵架了我就要来看看",
+          "user": {
+            "user_id": 6089616687,
+            "name": "诗错亦染clearlove",
+            "followings": 13,
+            "ugc_count": 71,
+            "avatar_url": "http://q.qlogo.cn/qqapp/100290348/46D815053645C9E65602B223D1C7A8F5/40",
+            "followers": 1092,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51190777023/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "这个我保存了，今天我才21岁，以后和老婆吵架了我就要来看看",
+          "video_height": 272,
+          "comment_count": 2404,
+          "cover_image_uri": "eed0000103d28fbea10",
+          "id_str": "51190777023",
+          "media_type": 3,
+          "share_count": 69225,
+          "type": 2,
+          "category_id": 253,
+          "status": 102,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 386,
+              "title": "情感"
+            },
+            {
+              "type": 2,
+              "id": 253,
+              "title": "吧:情感视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6089616687,
+              "title": "作者:诗错亦染clearlove"
+            }
+          ],
+          "play_count": 2084238,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/eed0000103d28fbea10"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/eed0000103d28fbea10"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/eed0000103d28fbea10"
+              }
+            ],
+            "uri": "medium/eed0000103d28fbea10"
+          },
+          "user_digg": 0,
+          "video_width": 352,
+          "online_time": 1476013421,
+          "category_name": "情感视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 6242,
+          "is_anonymous": false,
+          "repin_count": 18219,
+          "uri": "518909b66fdd4fe7ae803e0218ed5e43",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=518909b66fdd4fe7ae803e0218ed5e43&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=518909b66fdd4fe7ae803e0218ed5e43&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/518909b66fdd4fe7ae803e0218ed5e43",
+            "height": 272
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51190777023,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.98,
+        "online_time": 1477019536.98
+      },
+      {
+        "online_time": 1477019536.975,
+        "display_time": 1477019536.975,
+        "type": 5,
+        "ad": {
+          "log_extra": {
+            "rit": 11,
+            "ad_price": "WAjMHgAAsFZYCMweAACwVtNIlw8ShzXPPytweA",
+            "req_id": "2016102111121701000402305913426F",
+            "convert_id": 0
+          },
+          "open_url": "",
+          "track_url": "",
+          "display_info": "太刺激！就这游戏男人根本把持不住！",
+          "web_url": "http://dl.37wan.cn/upload/1_1002464_10131/yonghengjiyuanjie_1047.apk",
+          "appleid": "",
+          "id": 50821542958,
+          "display_image_height": 400,
+          "display_image_width": 600,
+          "title": "太刺激！就这游戏男人根本把持不住！",
+          "download_url": "http://dl.37wan.cn/upload/1_1002464_10131/yonghengjiyuanjie_1047.apk",
+          "label": "广告",
+          "source": "",
+          "track_url_list": [],
+          "display_image": "http://p3.pstatp.com/large/2f5000f34a0c36e0821",
+          "avatar_name": "永恒纪元：戒",
+          "type": "app",
+          "is_ad": 1,
+          "ipa_url": null,
+          "gif_url": "",
+          "ad_id": 50821542958,
+          "button_text": "立即下载",
+          "display_type": 3,
+          "ab_show_style": 0,
+          "package": "com.m37.dtszj.sy37",
+          "avatar_url": "http://p3.pstatp.com/origin/2f5000e87266860adb1",
+          "end_time": 1789142400
+        }
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6842a7dd326e40e99ddc42dd375d12df&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6842a7dd326e40e99ddc42dd375d12df&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/6842a7dd326e40e99ddc42dd375d12df",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6842a7dd326e40e99ddc42dd375d12df&quality=480p&line=0&is_gif=0.mp4",
+          "text": "真的是唱出了心声",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6842a7dd326e40e99ddc42dd375d12df&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6842a7dd326e40e99ddc42dd375d12df&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/6842a7dd326e40e99ddc42dd375d12df",
+            "height": 360
+          },
+          "digg_count": 36242,
+          "duration": 244.08,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6842a7dd326e40e99ddc42dd375d12df&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6842a7dd326e40e99ddc42dd375d12df&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/6842a7dd326e40e99ddc42dd375d12df",
+            "height": 360
+          },
+          "create_time": 1476507394,
+          "keywords": "",
+          "id": 51588251502,
+          "favorite_count": 8581,
+          "go_detail_count": 111742,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f870007723a79e8cbf1"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f870007723a79e8cbf1"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f870007723a79e8cbf1"
+              }
+            ],
+            "uri": "large/f870007723a79e8cbf1"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "真的是唱出了心声",
+          "user": {
+            "user_id": 5373813588,
+            "name": "真狗头军总司令",
+            "followings": 81,
+            "ugc_count": 8,
+            "avatar_url": "http://p3.pstatp.com/thumb/d2900125167fc47c8f5",
+            "followers": 378,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51588251502/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "真的是唱出了心声",
+          "video_height": 360,
+          "comment_count": 1576,
+          "cover_image_uri": "f870007723a79e8cbf1",
+          "id_str": "51588251502",
+          "media_type": 3,
+          "share_count": 22667,
+          "type": 2,
+          "category_id": 245,
+          "status": 102,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 556,
+              "title": "翻唱"
+            },
+            {
+              "type": 2,
+              "id": 245,
+              "title": "吧:牛人翻唱"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 5373813588,
+              "title": "作者:真狗头军总司令"
+            }
+          ],
+          "play_count": 1332339,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f870007723a79e8cbf1"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f870007723a79e8cbf1"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f870007723a79e8cbf1"
+              }
+            ],
+            "uri": "medium/f870007723a79e8cbf1"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476759506,
+          "category_name": "牛人翻唱",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 2447,
+          "is_anonymous": false,
+          "repin_count": 8581,
+          "uri": "6842a7dd326e40e99ddc42dd375d12df",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6842a7dd326e40e99ddc42dd375d12df&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6842a7dd326e40e99ddc42dd375d12df&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/6842a7dd326e40e99ddc42dd375d12df",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51588251502,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.97,
+        "online_time": 1477019536.97
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6623bd2164fb42d1bb9c9db7f283808f&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6623bd2164fb42d1bb9c9db7f283808f&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/6623bd2164fb42d1bb9c9db7f283808f",
+            "height": 272
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6623bd2164fb42d1bb9c9db7f283808f&quality=480p&line=0&is_gif=0.mp4",
+          "text": "我滴哥，你也太厉害????了！",
+          "720p_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6623bd2164fb42d1bb9c9db7f283808f&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6623bd2164fb42d1bb9c9db7f283808f&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/6623bd2164fb42d1bb9c9db7f283808f",
+            "height": 272
+          },
+          "digg_count": 18905,
+          "duration": 284.733,
+          "480p_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6623bd2164fb42d1bb9c9db7f283808f&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6623bd2164fb42d1bb9c9db7f283808f&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/6623bd2164fb42d1bb9c9db7f283808f",
+            "height": 272
+          },
+          "create_time": 1476927761,
+          "keywords": "",
+          "id": 51713341094,
+          "favorite_count": 2491,
+          "go_detail_count": 119327,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f3c000d7904052d1a80"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f3c000d7904052d1a80"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3c000d7904052d1a80"
+              }
+            ],
+            "uri": "large/f3c000d7904052d1a80"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "我滴哥，你也太厉害????了！",
+          "user": {
+            "user_id": 3682130544,
+            "name": "观阴大湿么么哒",
+            "followings": 66,
+            "ugc_count": 11,
+            "avatar_url": "http://p3.pstatp.com/thumb/2054/153246984",
+            "followers": 401,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51713341094/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "我滴哥，你也太厉害????了！",
+          "video_height": 272,
+          "comment_count": 1414,
+          "cover_image_uri": "f3c000d7904052d1a80",
+          "id_str": "51713341094",
+          "media_type": 3,
+          "share_count": 12978,
+          "type": 2,
+          "category_id": 65,
+          "status": 103,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 302,
+              "title": "糗人糗事"
+            },
+            {
+              "type": 2,
+              "id": 65,
+              "title": "吧:搞笑视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3682130544,
+              "title": "作者:观阴大湿么么哒"
+            }
+          ],
+          "play_count": 826899,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f3c000d7904052d1a80"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f3c000d7904052d1a80"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3c000d7904052d1a80"
+              }
+            ],
+            "uri": "medium/f3c000d7904052d1a80"
+          },
+          "user_digg": 0,
+          "video_width": 352,
+          "online_time": 1476980006,
+          "category_name": "搞笑视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 3207,
+          "is_anonymous": false,
+          "repin_count": 2491,
+          "uri": "6623bd2164fb42d1bb9c9db7f283808f",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6623bd2164fb42d1bb9c9db7f283808f&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=6623bd2164fb42d1bb9c9db7f283808f&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/6623bd2164fb42d1bb9c9db7f283808f",
+            "height": 272
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51713341094,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.96,
+        "online_time": 1477019536.96
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 490,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=623e6fcbba864b7d9ef594e1fabc8ae8&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=623e6fcbba864b7d9ef594e1fabc8ae8&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/623e6fcbba864b7d9ef594e1fabc8ae8",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=623e6fcbba864b7d9ef594e1fabc8ae8&quality=480p&line=0&is_gif=0.mp4",
+          "text": "这才是真正的 胸肌",
+          "720p_video": {
+            "width": 490,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=623e6fcbba864b7d9ef594e1fabc8ae8&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=623e6fcbba864b7d9ef594e1fabc8ae8&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/623e6fcbba864b7d9ef594e1fabc8ae8",
+            "height": 360
+          },
+          "digg_count": 11766,
+          "duration": 59.688,
+          "480p_video": {
+            "width": 490,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=623e6fcbba864b7d9ef594e1fabc8ae8&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=623e6fcbba864b7d9ef594e1fabc8ae8&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/623e6fcbba864b7d9ef594e1fabc8ae8",
+            "height": 360
+          },
+          "create_time": 1475378237,
+          "keywords": "",
+          "id": 51240831777,
+          "favorite_count": 2510,
+          "go_detail_count": 90381,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p2.pstatp.com/large/eea0011040dcbcc0ea8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/eea0011040dcbcc0ea8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/eea0011040dcbcc0ea8"
+              }
+            ],
+            "uri": "large/eea0011040dcbcc0ea8"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "这才是真正的 胸肌",
+          "user": {
+            "user_id": 21306499435,
+            "name": "-老娘不毒何以立足-",
+            "followings": 0,
+            "ugc_count": 4,
+            "avatar_url": "http://p3.pstatp.com/thumb/ef300013fa2876c5ff5",
+            "followers": 279,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51240831777/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "这才是真正的 胸肌",
+          "video_height": 360,
+          "comment_count": 1449,
+          "cover_image_uri": "eea0011040dcbcc0ea8",
+          "id_str": "51240831777",
+          "media_type": 3,
+          "share_count": 26401,
+          "type": 2,
+          "category_id": 91,
+          "status": 102,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 357,
+              "title": "综艺"
+            },
+            {
+              "type": 2,
+              "id": 91,
+              "title": "吧:综艺来了"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 21306499435,
+              "title": "作者:-老娘不毒何以立足-"
+            }
+          ],
+          "play_count": 1199979,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p2.pstatp.com/w202/eea0011040dcbcc0ea8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/eea0011040dcbcc0ea8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/eea0011040dcbcc0ea8"
+              }
+            ],
+            "uri": "medium/eea0011040dcbcc0ea8"
+          },
+          "user_digg": 0,
+          "video_width": 490,
+          "online_time": 1475378237,
+          "category_name": "综艺来了",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 2604,
+          "is_anonymous": false,
+          "repin_count": 2510,
+          "uri": "623e6fcbba864b7d9ef594e1fabc8ae8",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 490,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=623e6fcbba864b7d9ef594e1fabc8ae8&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=623e6fcbba864b7d9ef594e1fabc8ae8&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/623e6fcbba864b7d9ef594e1fabc8ae8",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51240831777,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.95,
+        "online_time": 1477019536.95
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=808cd68ef51f4a6fa76c729363a8080f&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=808cd68ef51f4a6fa76c729363a8080f&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/808cd68ef51f4a6fa76c729363a8080f",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=808cd68ef51f4a6fa76c729363a8080f&quality=480p&line=0&is_gif=0.mp4",
+          "text": "",
+          "720p_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=808cd68ef51f4a6fa76c729363a8080f&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=808cd68ef51f4a6fa76c729363a8080f&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/808cd68ef51f4a6fa76c729363a8080f",
+            "height": 360
+          },
+          "digg_count": 8618,
+          "duration": 171.133,
+          "480p_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=808cd68ef51f4a6fa76c729363a8080f&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=808cd68ef51f4a6fa76c729363a8080f&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/808cd68ef51f4a6fa76c729363a8080f",
+            "height": 360
+          },
+          "create_time": 1476208496,
+          "keywords": "",
+          "id": 51492644069,
+          "favorite_count": 2962,
+          "go_detail_count": 45456,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f38000c5cb11acc2ef4"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f38000c5cb11acc2ef4"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f38000c5cb11acc2ef4"
+              }
+            ],
+            "uri": "large/f38000c5cb11acc2ef4"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "",
+          "user": {
+            "user_id": 5946124084,
+            "name": "迷情夏雨时",
+            "followings": 3,
+            "ugc_count": 19,
+            "avatar_url": "http://p3.pstatp.com/thumb/4120006e9b38458dd19",
+            "followers": 146,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51492644069/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "",
+          "video_height": 360,
+          "comment_count": 467,
+          "cover_image_uri": "f38000c5cb11acc2ef4",
+          "id_str": "51492644069",
+          "media_type": 3,
+          "share_count": 18602,
+          "type": 2,
+          "category_id": 103,
+          "status": 112,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "dislike_reason": [
+            {
+              "type": 2,
+              "id": 103,
+              "title": "吧:音乐风云"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 5946124084,
+              "title": "作者:迷情夏雨时"
+            }
+          ],
+          "play_count": 603948,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f38000c5cb11acc2ef4"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f38000c5cb11acc2ef4"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f38000c5cb11acc2ef4"
+              }
+            ],
+            "uri": "medium/f38000c5cb11acc2ef4"
+          },
+          "user_digg": 0,
+          "video_width": 480,
+          "online_time": 1476885603,
+          "category_name": "音乐风云",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 1329,
+          "is_anonymous": false,
+          "repin_count": 2962,
+          "uri": "808cd68ef51f4a6fa76c729363a8080f",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=808cd68ef51f4a6fa76c729363a8080f&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=808cd68ef51f4a6fa76c729363a8080f&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/808cd68ef51f4a6fa76c729363a8080f",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51492644069,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.94,
+        "online_time": 1477019536.94
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=e13fa2a18a1a42c4b1bc1f1abadc1872&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=e13fa2a18a1a42c4b1bc1f1abadc1872&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/e13fa2a18a1a42c4b1bc1f1abadc1872",
+            "height": 368
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=e13fa2a18a1a42c4b1bc1f1abadc1872&quality=480p&line=0&is_gif=0.mp4",
+          "text": "联盟社会摇 6666",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=e13fa2a18a1a42c4b1bc1f1abadc1872&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=e13fa2a18a1a42c4b1bc1f1abadc1872&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/e13fa2a18a1a42c4b1bc1f1abadc1872",
+            "height": 368
+          },
+          "digg_count": 2879,
+          "duration": 127,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=e13fa2a18a1a42c4b1bc1f1abadc1872&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=e13fa2a18a1a42c4b1bc1f1abadc1872&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/e13fa2a18a1a42c4b1bc1f1abadc1872",
+            "height": 368
+          },
+          "create_time": 1476963387,
+          "keywords": "",
+          "id": 51726707734,
+          "favorite_count": 567,
+          "go_detail_count": 6710,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p1.pstatp.com/large/f3c000e0b2074417037"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3c000e0b2074417037"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3c000e0b2074417037"
+              }
+            ],
+            "uri": "large/f3c000e0b2074417037"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "联盟社会摇 6666",
+          "user": {
+            "user_id": 4675230912,
+            "name": "联盟搞笑视屏",
+            "followings": 3,
+            "ugc_count": 582,
+            "avatar_url": "http://p1.pstatp.com/thumb/11609/208998152",
+            "followers": 125706,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51726707734/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "联盟社会摇 6666",
+          "video_height": 368,
+          "comment_count": 108,
+          "cover_image_uri": "f3c000e0b2074417037",
+          "id_str": "51726707734",
+          "media_type": 3,
+          "share_count": 1025,
+          "type": 2,
+          "category_id": 242,
+          "status": 102,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 558,
+              "title": "鬼畜"
+            },
+            {
+              "type": 2,
+              "id": 242,
+              "title": "吧:鬼畜视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 4675230912,
+              "title": "作者:联盟搞笑视屏"
+            }
+          ],
+          "play_count": 135962,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p1.pstatp.com/w202/f3c000e0b2074417037"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3c000e0b2074417037"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3c000e0b2074417037"
+              }
+            ],
+            "uri": "medium/f3c000e0b2074417037"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476963387,
+          "category_name": "鬼畜视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 370,
+          "is_anonymous": false,
+          "repin_count": 567,
+          "uri": "e13fa2a18a1a42c4b1bc1f1abadc1872",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=e13fa2a18a1a42c4b1bc1f1abadc1872&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=e13fa2a18a1a42c4b1bc1f1abadc1872&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/e13fa2a18a1a42c4b1bc1f1abadc1872",
+            "height": 368
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51726707734,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.93,
+        "online_time": 1477019536.93
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=059cf9c3d4f34527959add62b07c4422&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=059cf9c3d4f34527959add62b07c4422&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/059cf9c3d4f34527959add62b07c4422",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=059cf9c3d4f34527959add62b07c4422&quality=480p&line=0&is_gif=0.mp4",
+          "text": "医院很诡异的一幕，看到最后我竟然…",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=059cf9c3d4f34527959add62b07c4422&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=059cf9c3d4f34527959add62b07c4422&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/059cf9c3d4f34527959add62b07c4422",
+            "height": 360
+          },
+          "digg_count": 87724,
+          "duration": 281.167,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=059cf9c3d4f34527959add62b07c4422&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=059cf9c3d4f34527959add62b07c4422&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/059cf9c3d4f34527959add62b07c4422",
+            "height": 360
+          },
+          "create_time": 1476751090,
+          "keywords": "",
+          "id": 51661316334,
+          "favorite_count": 2110,
+          "go_detail_count": 265891,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p1.pstatp.com/large/f3f00105a1926b1f8c8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3f00105a1926b1f8c8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3f00105a1926b1f8c8"
+              }
+            ],
+            "uri": "large/f3f00105a1926b1f8c8"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "医院很诡异的一幕，看到最后我竟然…",
+          "user": {
+            "user_id": 6602903962,
+            "name": "B猴子请来的逗逼",
+            "followings": 16,
+            "ugc_count": 41,
+            "avatar_url": "http://p3.pstatp.com/thumb/ef60003f22d9d27e467",
+            "followers": 373,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51661316334/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "医院很诡异的一幕，看到最后我竟然…",
+          "video_height": 360,
+          "comment_count": 7518,
+          "cover_image_uri": "f3f00105a1926b1f8c8",
+          "id_str": "51661316334",
+          "media_type": 3,
+          "share_count": 18911,
+          "type": 2,
+          "category_id": 253,
+          "status": 112,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 386,
+              "title": "情感"
+            },
+            {
+              "type": 2,
+              "id": 253,
+              "title": "吧:情感视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6602903962,
+              "title": "作者:B猴子请来的逗逼"
+            }
+          ],
+          "play_count": 1353963,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p1.pstatp.com/w202/f3f00105a1926b1f8c8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3f00105a1926b1f8c8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3f00105a1926b1f8c8"
+              }
+            ],
+            "uri": "medium/f3f00105a1926b1f8c8"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476778629,
+          "category_name": "情感视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 3355,
+          "is_anonymous": false,
+          "repin_count": 2110,
+          "uri": "059cf9c3d4f34527959add62b07c4422",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=059cf9c3d4f34527959add62b07c4422&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=059cf9c3d4f34527959add62b07c4422&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/059cf9c3d4f34527959add62b07c4422",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51661316334,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.92,
+        "online_time": 1477019536.92
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=16753993384e44ffb77a0c895a2cb452&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=16753993384e44ffb77a0c895a2cb452&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/16753993384e44ffb77a0c895a2cb452",
+            "height": 272
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=16753993384e44ffb77a0c895a2cb452&quality=480p&line=0&is_gif=0.mp4",
+          "text": "挺现实",
+          "720p_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=16753993384e44ffb77a0c895a2cb452&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=16753993384e44ffb77a0c895a2cb452&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/16753993384e44ffb77a0c895a2cb452",
+            "height": 272
+          },
+          "digg_count": 13178,
+          "duration": 203.28,
+          "480p_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=16753993384e44ffb77a0c895a2cb452&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=16753993384e44ffb77a0c895a2cb452&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/16753993384e44ffb77a0c895a2cb452",
+            "height": 272
+          },
+          "create_time": 1476359734,
+          "keywords": "",
+          "id": 51542157485,
+          "favorite_count": 2495,
+          "go_detail_count": 24038,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f38001183296eb72fde"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f38001183296eb72fde"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f38001183296eb72fde"
+              }
+            ],
+            "uri": "large/f38001183296eb72fde"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "挺现实",
+          "user": {
+            "user_id": 6080411669,
+            "name": "南篱旧事78299603",
+            "followings": 8,
+            "ugc_count": 2,
+            "avatar_url": "http://q.qlogo.cn/qqapp/100290348/4BFCA349B3295E05946FD5C2C63FA9BB/40",
+            "followers": 218,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51542157485/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "挺现实",
+          "video_height": 272,
+          "comment_count": 409,
+          "cover_image_uri": "f38001183296eb72fde",
+          "id_str": "51542157485",
+          "media_type": 3,
+          "share_count": 25750,
+          "type": 2,
+          "category_id": 245,
+          "status": 102,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 556,
+              "title": "翻唱"
+            },
+            {
+              "type": 2,
+              "id": 245,
+              "title": "吧:牛人翻唱"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6080411669,
+              "title": "作者:南篱旧事78299603"
+            }
+          ],
+          "play_count": 745186,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f38001183296eb72fde"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f38001183296eb72fde"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f38001183296eb72fde"
+              }
+            ],
+            "uri": "medium/f38001183296eb72fde"
+          },
+          "user_digg": 0,
+          "video_width": 352,
+          "online_time": 1476516721,
+          "category_name": "牛人翻唱",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 1494,
+          "is_anonymous": false,
+          "repin_count": 2495,
+          "uri": "16753993384e44ffb77a0c895a2cb452",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 352,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=16753993384e44ffb77a0c895a2cb452&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=16753993384e44ffb77a0c895a2cb452&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/16753993384e44ffb77a0c895a2cb452",
+            "height": 272
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51542157485,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.91,
+        "online_time": 1477019536.91
+      },
+      {
+        "online_time": 1477019536.9050002,
+        "display_time": 1477019536.9050002,
+        "type": 5,
+        "ad": {
+          "log_extra": {
+            "rit": 11,
+            "ad_price": "WAjMHgAAsFZYCMweAACwVtNIlw8ShqBDyWQ0Pg",
+            "req_id": "2016102111121701000402305913426F",
+            "convert_id": 0
+          },
+          "open_url": "",
+          "track_url": "",
+          "display_info": "自从玩了这个游戏，感觉身体被掏空了！",
+          "web_url": "http://res.wanyou360.com/downloads/zjh/hgysz-3.9.0/jrtt06-hgysz-3.9.0.apk",
+          "appleid": "",
+          "id": 50032919668,
+          "display_image_height": 400,
+          "display_image_width": 600,
+          "title": "自从玩了这个游戏，感觉身体被掏空了！",
+          "download_url": "http://res.wanyou360.com/downloads/zjh/hgysz-3.9.0/jrtt06-hgysz-3.9.0.apk",
+          "label": "广告",
+          "source": "",
+          "track_url_list": [],
+          "display_image": "http://p1.pstatp.com/large/3f000cd507b050b44a",
+          "avatar_name": "皇冠赢三张",
+          "type": "app",
+          "is_ad": 1,
+          "ipa_url": null,
+          "gif_url": "",
+          "ad_id": 50032919668,
+          "button_text": "立即下载",
+          "display_type": 3,
+          "ab_show_style": 0,
+          "package": "com.starfield.game.android.zhajinhua2",
+          "avatar_url": "http://p3.pstatp.com/origin/3f000949ee7f4f8289",
+          "end_time": 1485878400
+        }
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=26d39a6b359f4a9d8b9da88fc97b4b51&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=26d39a6b359f4a9d8b9da88fc97b4b51&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/26d39a6b359f4a9d8b9da88fc97b4b51",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=26d39a6b359f4a9d8b9da88fc97b4b51&quality=480p&line=0&is_gif=0.mp4",
+          "text": "小伙玩英雄联盟被队友坑哭,从此不在LOL",
+          "720p_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=26d39a6b359f4a9d8b9da88fc97b4b51&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=26d39a6b359f4a9d8b9da88fc97b4b51&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/26d39a6b359f4a9d8b9da88fc97b4b51",
+            "height": 360
+          },
+          "digg_count": 25437,
+          "duration": 85,
+          "480p_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=26d39a6b359f4a9d8b9da88fc97b4b51&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=26d39a6b359f4a9d8b9da88fc97b4b51&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/26d39a6b359f4a9d8b9da88fc97b4b51",
+            "height": 360
+          },
+          "create_time": 1476012011,
+          "keywords": "",
+          "id": 6339407408838345000,
+          "favorite_count": 11230,
+          "go_detail_count": 117541,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f36001423288ed30c3a"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f36001423288ed30c3a"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f36001423288ed30c3a"
+              }
+            ],
+            "uri": "large/f36001423288ed30c3a"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "小伙玩英雄联盟被队友坑哭,从此不在LOL",
+          "user": {
+            "user_id": 3351360248,
+            "name": "啊一一长城",
+            "followings": 0,
+            "ugc_count": 2220,
+            "avatar_url": "http://tp3.sinaimg.cn/3584167542/50/5669173468/0",
+            "followers": 3662,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/6339407408838344961/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "小伙玩英雄联盟被队友坑哭,从此不在LOL",
+          "video_height": 360,
+          "comment_count": 1250,
+          "cover_image_uri": "f36001423288ed30c3a",
+          "id_str": "6339407408838344961",
+          "media_type": 3,
+          "share_count": 23311,
+          "type": 2,
+          "category_id": 254,
+          "status": 112,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 435,
+              "title": "游戏"
+            },
+            {
+              "type": 2,
+              "id": 254,
+              "title": "吧:游戏视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3351360248,
+              "title": "作者:啊一一长城"
+            }
+          ],
+          "play_count": 654710,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f36001423288ed30c3a"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f36001423288ed30c3a"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f36001423288ed30c3a"
+              }
+            ],
+            "uri": "medium/f36001423288ed30c3a"
+          },
+          "user_digg": 0,
+          "video_width": 480,
+          "online_time": 1476022838,
+          "category_name": "游戏视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 1752,
+          "is_anonymous": false,
+          "repin_count": 11230,
+          "uri": "26d39a6b359f4a9d8b9da88fc97b4b51",
+          "is_public_url": 1,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 480,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=26d39a6b359f4a9d8b9da88fc97b4b51&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=26d39a6b359f4a9d8b9da88fc97b4b51&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/26d39a6b359f4a9d8b9da88fc97b4b51",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 6339407408838345000,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.9,
+        "online_time": 1477019536.9
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=d399a63e695d4fceb19b431ca0027eee&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=d399a63e695d4fceb19b431ca0027eee&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/d399a63e695d4fceb19b431ca0027eee",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=d399a63e695d4fceb19b431ca0027eee&quality=480p&line=0&is_gif=0.mp4",
+          "text": "公交车上电话装逼，最后一位大姐完胜",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=d399a63e695d4fceb19b431ca0027eee&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=d399a63e695d4fceb19b431ca0027eee&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/d399a63e695d4fceb19b431ca0027eee",
+            "height": 360
+          },
+          "digg_count": 4461,
+          "duration": 162.92,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=d399a63e695d4fceb19b431ca0027eee&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=d399a63e695d4fceb19b431ca0027eee&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/d399a63e695d4fceb19b431ca0027eee",
+            "height": 360
+          },
+          "create_time": 1476760782,
+          "keywords": "",
+          "id": 51664344460,
+          "favorite_count": 1096,
+          "go_detail_count": 15688,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p1.pstatp.com/large/f3d00070b55ed328f07"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3d00070b55ed328f07"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3d00070b55ed328f07"
+              }
+            ],
+            "uri": "large/f3d00070b55ed328f07"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "公交车上电话装逼，最后一位大姐完胜",
+          "user": {
+            "user_id": 51075420659,
+            "name": "早泻腎虛點頭像看資料6",
+            "followings": 0,
+            "ugc_count": 127,
+            "avatar_url": "http://p9.pstatp.com/thumb/e58000a64c334ec15d6",
+            "followers": 85,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51664344460/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "公交车上电话装逼，最后一位大姐完胜",
+          "video_height": 360,
+          "comment_count": 123,
+          "cover_image_uri": "f3d00070b55ed328f07",
+          "id_str": "51664344460",
+          "media_type": 3,
+          "share_count": 8555,
+          "type": 2,
+          "category_id": 65,
+          "status": 103,
+          "has_comments": 1,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 363,
+              "title": "配音"
+            },
+            {
+              "type": 2,
+              "id": 65,
+              "title": "吧:搞笑视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 51075420659,
+              "title": "作者:早泻腎虛點頭像看資料6"
+            }
+          ],
+          "play_count": 564102,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p1.pstatp.com/w202/f3d00070b55ed328f07"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3d00070b55ed328f07"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3d00070b55ed328f07"
+              }
+            ],
+            "uri": "medium/f3d00070b55ed328f07"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476881301,
+          "category_name": "搞笑视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 683,
+          "is_anonymous": false,
+          "repin_count": 1096,
+          "uri": "d399a63e695d4fceb19b431ca0027eee",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=d399a63e695d4fceb19b431ca0027eee&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=d399a63e695d4fceb19b431ca0027eee&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/d399a63e695d4fceb19b431ca0027eee",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51664344460,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [
+          {
+            "text": "MD那么牛逼，还坐公交车",
+            "create_time": 1476889502,
+            "user_verified": false,
+            "user_bury": 0,
+            "user_id": 6222528744,
+            "bury_count": 0,
+            "share_url": "http://m.neihanshequ.com/share/group/51664344460/?comment_id=51706581778",
+            "id": 51706581778,
+            "platform": "feifei",
+            "is_digg": 0,
+            "user_name": "傻傻傻傻傻啥",
+            "user_profile_image_url": "http://p3.pstatp.com/thumb/3797/2889309425",
+            "status": 5,
+            "description": "",
+            "comment_id": 51706581778,
+            "user_digg": 0,
+            "user_profile_url": "",
+            "share_type": 1,
+            "digg_count": 2136,
+            "platform_id": "feifei",
+            "avatar_url": "http://p3.pstatp.com/thumb/3797/2889309425",
+            "group_id": 51664344460
+          }
+        ],
+        "type": 1,
+        "display_time": 1477019536.89,
+        "online_time": 1477019536.89
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=0f2660b4bc7f49d1a7af9cf8b21a634f&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=0f2660b4bc7f49d1a7af9cf8b21a634f&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/0f2660b4bc7f49d1a7af9cf8b21a634f",
+            "height": 358
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=0f2660b4bc7f49d1a7af9cf8b21a634f&quality=480p&line=0&is_gif=0.mp4",
+          "text": "男女合唱的《我不愿让你一个人》，单身狗勿点！更多精彩校园翻唱视频，内涵社区关注“不要音乐”。新浪微博@不要音乐。每日更新哦！",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=0f2660b4bc7f49d1a7af9cf8b21a634f&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=0f2660b4bc7f49d1a7af9cf8b21a634f&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/0f2660b4bc7f49d1a7af9cf8b21a634f",
+            "height": 358
+          },
+          "digg_count": 2183,
+          "duration": 301.708,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=0f2660b4bc7f49d1a7af9cf8b21a634f&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=0f2660b4bc7f49d1a7af9cf8b21a634f&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/0f2660b4bc7f49d1a7af9cf8b21a634f",
+            "height": 358
+          },
+          "create_time": 1476943373,
+          "keywords": "",
+          "id": 51719184263,
+          "favorite_count": 576,
+          "go_detail_count": 8104,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p1.pstatp.com/large/f870010de6aefdd7de9"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f870010de6aefdd7de9"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f870010de6aefdd7de9"
+              }
+            ],
+            "uri": "large/f870010de6aefdd7de9"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "男女合唱的《我不愿让你一个人》，单身狗勿点！更多精彩校园翻唱视频，内涵社区关注“不要音乐”。新浪微博@不要音乐。每日更新哦！",
+          "user": {
+            "user_id": 6855971772,
+            "name": "不要音乐",
+            "followings": 0,
+            "ugc_count": 99,
+            "avatar_url": "http://tva4.sinaimg.cn/crop.0.0.199.199.50/006vflqSgw1f4ziko3s5wj305k05k3yh.jpg",
+            "followers": 11255,
+            "is_following": false,
+            "user_verified": true
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51719184263/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "男女合唱的《我不愿让你一个人》，单身狗勿点！更多精彩校园翻唱视频，内涵社区关注“不要音乐”。新浪微博@不要音乐。每日更新哦！",
+          "video_height": 358,
+          "comment_count": 178,
+          "cover_image_uri": "f870010de6aefdd7de9",
+          "id_str": "51719184263",
+          "media_type": 3,
+          "share_count": 625,
+          "type": 2,
+          "category_id": 245,
+          "status": 102,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 556,
+              "title": "翻唱"
+            },
+            {
+              "type": 2,
+              "id": 245,
+              "title": "吧:牛人翻唱"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6855971772,
+              "title": "作者:不要音乐"
+            }
+          ],
+          "play_count": 141161,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p1.pstatp.com/w202/f870010de6aefdd7de9"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f870010de6aefdd7de9"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f870010de6aefdd7de9"
+              }
+            ],
+            "uri": "medium/f870010de6aefdd7de9"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476943373,
+          "category_name": "牛人翻唱",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 405,
+          "is_anonymous": false,
+          "repin_count": 576,
+          "uri": "0f2660b4bc7f49d1a7af9cf8b21a634f",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=0f2660b4bc7f49d1a7af9cf8b21a634f&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=0f2660b4bc7f49d1a7af9cf8b21a634f&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/0f2660b4bc7f49d1a7af9cf8b21a634f",
+            "height": 358
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51719184263,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.88,
+        "online_time": 1477019536.88
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 426,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c7faea1e522f4f939520ecbd4f32d460&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c7faea1e522f4f939520ecbd4f32d460&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/c7faea1e522f4f939520ecbd4f32d460",
+            "height": 318
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c7faea1e522f4f939520ecbd4f32d460&quality=480p&line=0&is_gif=0.mp4",
+          "text": "国内综艺节目，测试女人身体敏感度，自己体会！表示营养不良的少看了",
+          "720p_video": {
+            "width": 426,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c7faea1e522f4f939520ecbd4f32d460&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c7faea1e522f4f939520ecbd4f32d460&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/c7faea1e522f4f939520ecbd4f32d460",
+            "height": 318
+          },
+          "digg_count": 14026,
+          "duration": 268.12,
+          "480p_video": {
+            "width": 426,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c7faea1e522f4f939520ecbd4f32d460&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c7faea1e522f4f939520ecbd4f32d460&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/c7faea1e522f4f939520ecbd4f32d460",
+            "height": 318
+          },
+          "create_time": 1476421968,
+          "keywords": "",
+          "id": 51556501672,
+          "favorite_count": 18984,
+          "go_detail_count": 256082,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f8e00045583cc6148ad"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f8e00045583cc6148ad"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f8e00045583cc6148ad"
+              }
+            ],
+            "uri": "large/f8e00045583cc6148ad"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "国内综艺节目，测试女人身体敏感度，自己体会！表示营养不良的少看了",
+          "user": {
+            "user_id": 21184102764,
+            "name": "盗来的夫人",
+            "followings": 1,
+            "ugc_count": 332,
+            "avatar_url": "http://wx.qlogo.cn/mmopen/4elbQCnSaLJ7VWaYQj1YcAFUnib035CqIxZLRg80iccOpAABOlp6MncnW9ESCicG6vGnCiagj3aBanRRJ3bUsZCEwHyJQe0H0ccg/46",
+            "followers": 3221,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51556501672/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "国内综艺节目，测试女人身体敏感度，自己体会！表示营养不良的少看了",
+          "video_height": 318,
+          "comment_count": 4101,
+          "cover_image_uri": "f8e00045583cc6148ad",
+          "id_str": "51556501672",
+          "media_type": 3,
+          "share_count": 17657,
+          "type": 2,
+          "category_id": 91,
+          "status": 102,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 357,
+              "title": "综艺"
+            },
+            {
+              "type": 2,
+              "id": 91,
+              "title": "吧:综艺来了"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 21184102764,
+              "title": "作者:盗来的夫人"
+            }
+          ],
+          "play_count": 1878296,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f8e00045583cc6148ad"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f8e00045583cc6148ad"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f8e00045583cc6148ad"
+              }
+            ],
+            "uri": "medium/f8e00045583cc6148ad"
+          },
+          "user_digg": 0,
+          "video_width": 426,
+          "online_time": 1476806859,
+          "category_name": "综艺来了",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 4781,
+          "is_anonymous": false,
+          "repin_count": 18984,
+          "uri": "c7faea1e522f4f939520ecbd4f32d460",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 426,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c7faea1e522f4f939520ecbd4f32d460&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=c7faea1e522f4f939520ecbd4f32d460&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/c7faea1e522f4f939520ecbd4f32d460",
+            "height": 318
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51556501672,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.8700001,
+        "online_time": 1477019536.8700001
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=46f6be1535584c34afc9f4e5a420a9ea&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=46f6be1535584c34afc9f4e5a420a9ea&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/46f6be1535584c34afc9f4e5a420a9ea",
+            "height": 358
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=46f6be1535584c34afc9f4e5a420a9ea&quality=480p&line=0&is_gif=0.mp4",
+          "text": "长友们，还记得他吗",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=46f6be1535584c34afc9f4e5a420a9ea&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=46f6be1535584c34afc9f4e5a420a9ea&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/46f6be1535584c34afc9f4e5a420a9ea",
+            "height": 358
+          },
+          "digg_count": 16608,
+          "duration": 151.4,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=46f6be1535584c34afc9f4e5a420a9ea&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=46f6be1535584c34afc9f4e5a420a9ea&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/46f6be1535584c34afc9f4e5a420a9ea",
+            "height": 358
+          },
+          "create_time": 1476763630,
+          "keywords": "",
+          "id": 51665628327,
+          "favorite_count": 1155,
+          "go_detail_count": 82600,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f3c000bc61e2525205d"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f3c000bc61e2525205d"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3c000bc61e2525205d"
+              }
+            ],
+            "uri": "large/f3c000bc61e2525205d"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "长友们，还记得他吗",
+          "user": {
+            "user_id": 3977124427,
+            "name": "你名字有我故事",
+            "followings": 1,
+            "ugc_count": 2,
+            "avatar_url": "http://p3.pstatp.com/thumb/ef500060f7e9a351c22",
+            "followers": 146,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51665628327/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "长友们，还记得他吗",
+          "video_height": 358,
+          "comment_count": 2360,
+          "cover_image_uri": "f3c000bc61e2525205d",
+          "id_str": "51665628327",
+          "media_type": 3,
+          "share_count": 4344,
+          "type": 2,
+          "category_id": 103,
+          "status": 112,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 431,
+              "title": "音乐"
+            },
+            {
+              "type": 2,
+              "id": 103,
+              "title": "吧:音乐风云"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3977124427,
+              "title": "作者:你名字有我故事"
+            }
+          ],
+          "play_count": 474854,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f3c000bc61e2525205d"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f3c000bc61e2525205d"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3c000bc61e2525205d"
+              }
+            ],
+            "uri": "medium/f3c000bc61e2525205d"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476763630,
+          "category_name": "音乐风云",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 622,
+          "is_anonymous": false,
+          "repin_count": 1155,
+          "uri": "46f6be1535584c34afc9f4e5a420a9ea",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=46f6be1535584c34afc9f4e5a420a9ea&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=46f6be1535584c34afc9f4e5a420a9ea&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/46f6be1535584c34afc9f4e5a420a9ea",
+            "height": 358
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51665628327,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.8600001,
+        "online_time": 1477019536.8600001
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=15a7a77004364412af102755dab781cf&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=15a7a77004364412af102755dab781cf&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/15a7a77004364412af102755dab781cf",
+            "height": 358
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=15a7a77004364412af102755dab781cf&quality=480p&line=0&is_gif=0.mp4",
+          "text": "我们欠父母的太多了，苦日子过完了，父母却老了。好日子开始了，父母却走不动了。作为儿子，儿媳，女儿，女婿，无论是谁的父母，无论如何，请宽容他们，理解他们，善待他们。他们苦过累过，抚养儿女，默默无闻，无怨无悔，善待今天的他们，就是善待明天的自己。今天你善待他们",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=15a7a77004364412af102755dab781cf&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=15a7a77004364412af102755dab781cf&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/15a7a77004364412af102755dab781cf",
+            "height": 358
+          },
+          "digg_count": 747,
+          "duration": 209.32,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=15a7a77004364412af102755dab781cf&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=15a7a77004364412af102755dab781cf&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/15a7a77004364412af102755dab781cf",
+            "height": 358
+          },
+          "create_time": 1476870476,
+          "keywords": "",
+          "id": 51698013087,
+          "favorite_count": 71,
+          "go_detail_count": 1272,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p5a.pstatp.com/large/f3e000dce1734903324"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3e000dce1734903324"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3e000dce1734903324"
+              }
+            ],
+            "uri": "large/f3e000dce1734903324"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "我们欠父母的太多了，苦日子过完了，父母却老了。好日子开始了，父母却走不动了。作为儿子，儿媳，女儿，女婿，无论是谁的父母，无论如何，请宽容他们，理解他们，善待他们。他们苦过累过，抚养儿女，默默无闻，无怨无悔，善待今天的他们，就是善待明天的自己。今天你善待他们",
+          "user": {
+            "user_id": 5576646379,
+            "name": "爆笑陆丰",
+            "followings": 2,
+            "ugc_count": 1,
+            "avatar_url": "http://q.qlogo.cn/qqapp/100290348/750F920AFF17DE52ACC54BCB09962E0F/40",
+            "followers": 15,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51698013087/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "我们欠父母的太多了，苦日子过完了，父母却老了。好日子开始了，父母却走不动了。作为儿子，儿媳，女儿，女婿，无论是谁的父母，无论如何，请宽容他们，理解他们，善待他们。他们苦过累过，抚养儿女，默默无闻，无怨无悔，善待今天的他们，就是善待明天的自己。今天你善待他们",
+          "video_height": 358,
+          "comment_count": 50,
+          "cover_image_uri": "f3e000dce1734903324",
+          "id_str": "51698013087",
+          "media_type": 3,
+          "share_count": 1450,
+          "type": 2,
+          "category_id": 253,
+          "status": 112,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 386,
+              "title": "情感"
+            },
+            {
+              "type": 2,
+              "id": 253,
+              "title": "吧:情感视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 5576646379,
+              "title": "作者:爆笑陆丰"
+            }
+          ],
+          "play_count": 20761,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p5a.pstatp.com/w202/f3e000dce1734903324"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3e000dce1734903324"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3e000dce1734903324"
+              }
+            ],
+            "uri": "medium/f3e000dce1734903324"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476870476,
+          "category_name": "情感视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 66,
+          "is_anonymous": false,
+          "repin_count": 71,
+          "uri": "15a7a77004364412af102755dab781cf",
+          "is_public_url": 1,
+          "has_hot_comments": 0,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=15a7a77004364412af102755dab781cf&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=15a7a77004364412af102755dab781cf&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/15a7a77004364412af102755dab781cf",
+            "height": 358
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51698013087,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.8500001,
+        "online_time": 1477019536.8500001
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=f62c6f4b94944d5180a10e5051f1defe&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=f62c6f4b94944d5180a10e5051f1defe&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/f62c6f4b94944d5180a10e5051f1defe",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=f62c6f4b94944d5180a10e5051f1defe&quality=480p&line=0&is_gif=0.mp4",
+          "text": "没看过日本综艺，第一次看，不服不行。",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=f62c6f4b94944d5180a10e5051f1defe&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=f62c6f4b94944d5180a10e5051f1defe&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/f62c6f4b94944d5180a10e5051f1defe",
+            "height": 360
+          },
+          "digg_count": 10543,
+          "duration": 207.5,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=f62c6f4b94944d5180a10e5051f1defe&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=f62c6f4b94944d5180a10e5051f1defe&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/f62c6f4b94944d5180a10e5051f1defe",
+            "height": 360
+          },
+          "create_time": 1476772963,
+          "keywords": "",
+          "id": 51668164079,
+          "favorite_count": 2620,
+          "go_detail_count": 94847,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f88000f1a14fba519a8"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f88000f1a14fba519a8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f88000f1a14fba519a8"
+              }
+            ],
+            "uri": "large/f88000f1a14fba519a8"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "没看过日本综艺，第一次看，不服不行。",
+          "user": {
+            "user_id": 6707675151,
+            "name": "握草总部",
+            "followings": 6,
+            "ugc_count": 2,
+            "avatar_url": "http://p1.pstatp.com/thumb/ef30001d644145efb7b",
+            "followers": 165,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51668164079/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "没看过日本综艺，第一次看，不服不行。",
+          "video_height": 360,
+          "comment_count": 1744,
+          "cover_image_uri": "f88000f1a14fba519a8",
+          "id_str": "51668164079",
+          "media_type": 3,
+          "share_count": 13971,
+          "type": 2,
+          "category_id": 65,
+          "status": 103,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 357,
+              "title": "综艺"
+            },
+            {
+              "type": 2,
+              "id": 65,
+              "title": "吧:搞笑视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6707675151,
+              "title": "作者:握草总部"
+            }
+          ],
+          "play_count": 658718,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f88000f1a14fba519a8"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f88000f1a14fba519a8"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f88000f1a14fba519a8"
+              }
+            ],
+            "uri": "medium/f88000f1a14fba519a8"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476848020,
+          "category_name": "搞笑视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 1816,
+          "is_anonymous": false,
+          "repin_count": 2620,
+          "uri": "f62c6f4b94944d5180a10e5051f1defe",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=f62c6f4b94944d5180a10e5051f1defe&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=f62c6f4b94944d5180a10e5051f1defe&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/f62c6f4b94944d5180a10e5051f1defe",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51668164079,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.8400002,
+        "online_time": 1477019536.8400002
+      },
+      {
+        "online_time": 1477019536.835,
+        "display_time": 1477019536.835,
+        "type": 5,
+        "ad": {
+          "log_extra": {
+            "rit": 11,
+            "ad_price": "WAjMHgAAsFZYCMweAACwVtNIlw8ShtIH06_GXQ",
+            "req_id": "2016102111121701000402305913426F",
+            "convert_id": 0
+          },
+          "open_url": "",
+          "track_url": "",
+          "display_info": "姐妹们，管好你们的男友，千万别让他们玩这个！",
+          "web_url": "http://d2.pstatp.com/game_hall/1002464_jrtt2_yhjyj_3.21.1_20161010.apk",
+          "appleid": "",
+          "id": 50004460620,
+          "display_image_height": 400,
+          "display_image_width": 600,
+          "title": "姐妹们，管好你们的男友，千万别让他们玩这个！",
+          "download_url": "http://d2.pstatp.com/game_hall/1002464_jrtt2_yhjyj_3.21.1_20161010.apk",
+          "label": "广告",
+          "source": "",
+          "track_url_list": [],
+          "display_image": "http://p1.pstatp.com/origin/9ed0002499b83ef0e0c",
+          "avatar_name": "永恒纪元：戒",
+          "type": "app",
+          "is_ad": 1,
+          "ipa_url": null,
+          "gif_url": "http://p3.pstatp.com/origin/2f5000a9786a298b3f6",
+          "ad_id": 50004460620,
+          "button_text": "立即下载",
+          "display_type": 3,
+          "ab_show_style": 0,
+          "package": "com.sy37.yhjyj.nhdz",
+          "avatar_url": "http://p3.pstatp.com/origin/3f000a0dab90c246ad",
+          "end_time": 1785340207
+        }
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=21d8d79335584f77a869feee0053561c&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=21d8d79335584f77a869feee0053561c&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/21d8d79335584f77a869feee0053561c",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=21d8d79335584f77a869feee0053561c&quality=480p&line=0&is_gif=0.mp4",
+          "text": "高能预警！千万不要和一群基友出去玩，否则你会被......嘿嘿嘿！",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=21d8d79335584f77a869feee0053561c&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=21d8d79335584f77a869feee0053561c&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/21d8d79335584f77a869feee0053561c",
+            "height": 360
+          },
+          "digg_count": 2030,
+          "duration": 185.033,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=21d8d79335584f77a869feee0053561c&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=21d8d79335584f77a869feee0053561c&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/21d8d79335584f77a869feee0053561c",
+            "height": 360
+          },
+          "create_time": 1476945625,
+          "keywords": "",
+          "id": 51720072888,
+          "favorite_count": 441,
+          "go_detail_count": 9333,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f3e000e815d4280be39"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f3e000e815d4280be39"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f3e000e815d4280be39"
+              }
+            ],
+            "uri": "large/f3e000e815d4280be39"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "高能预警！千万不要和一群基友出去玩，否则你会被......嘿嘿嘿！",
+          "user": {
+            "user_id": 6487663716,
+            "name": "郑湫泓的男朋友",
+            "followings": 9,
+            "ugc_count": 29,
+            "avatar_url": "http://p3.pstatp.com/thumb/e590003f3c2290dfe10",
+            "followers": 2471,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51720072888/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "高能预警！千万不要和一群基友出去玩，否则你会被......嘿嘿嘿！",
+          "video_height": 360,
+          "comment_count": 117,
+          "cover_image_uri": "f3e000e815d4280be39",
+          "id_str": "51720072888",
+          "media_type": 3,
+          "share_count": 499,
+          "type": 2,
+          "category_id": 245,
+          "status": 102,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 556,
+              "title": "翻唱"
+            },
+            {
+              "type": 2,
+              "id": 245,
+              "title": "吧:牛人翻唱"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 6487663716,
+              "title": "作者:郑湫泓的男朋友"
+            }
+          ],
+          "play_count": 211851,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f3e000e815d4280be39"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f3e000e815d4280be39"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f3e000e815d4280be39"
+              }
+            ],
+            "uri": "medium/f3e000e815d4280be39"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1476945625,
+          "category_name": "牛人翻唱",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 300,
+          "is_anonymous": false,
+          "repin_count": 441,
+          "uri": "21d8d79335584f77a869feee0053561c",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=21d8d79335584f77a869feee0053561c&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=21d8d79335584f77a869feee0053561c&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/21d8d79335584f77a869feee0053561c",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51720072888,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.8300002,
+        "online_time": 1477019536.8300002
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 360,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=4ac8083bdcf54dfd9e43187bbfeb2297&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=4ac8083bdcf54dfd9e43187bbfeb2297&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/4ac8083bdcf54dfd9e43187bbfeb2297",
+            "height": 360
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=4ac8083bdcf54dfd9e43187bbfeb2297&quality=480p&line=0&is_gif=0.mp4",
+          "text": "看见这个，相信段友们不会吝啬一个小小的赞吧",
+          "720p_video": {
+            "width": 360,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=4ac8083bdcf54dfd9e43187bbfeb2297&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=4ac8083bdcf54dfd9e43187bbfeb2297&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/4ac8083bdcf54dfd9e43187bbfeb2297",
+            "height": 360
+          },
+          "digg_count": 117992,
+          "duration": 177.8,
+          "480p_video": {
+            "width": 360,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=4ac8083bdcf54dfd9e43187bbfeb2297&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=4ac8083bdcf54dfd9e43187bbfeb2297&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/4ac8083bdcf54dfd9e43187bbfeb2297",
+            "height": 360
+          },
+          "create_time": 1476111425,
+          "keywords": "",
+          "id": 51465946727,
+          "favorite_count": 3396,
+          "go_detail_count": 73887,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f380008b7265cb855f0"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f380008b7265cb855f0"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f380008b7265cb855f0"
+              }
+            ],
+            "uri": "large/f380008b7265cb855f0"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "看见这个，相信段友们不会吝啬一个小小的赞吧",
+          "user": {
+            "user_id": 3435319169,
+            "name": "影影夜绘画工作室",
+            "followings": 0,
+            "ugc_count": 8,
+            "avatar_url": "http://p1.pstatp.com/thumb/ef60004b1e209dc9ffa",
+            "followers": 494,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51465946727/?iid=2767929313&app=joke_essay",
+          "label": 4,
+          "content": "看见这个，相信段友们不会吝啬一个小小的赞吧",
+          "video_height": 360,
+          "comment_count": 2375,
+          "cover_image_uri": "f380008b7265cb855f0",
+          "id_str": "51465946727",
+          "media_type": 3,
+          "share_count": 8688,
+          "type": 2,
+          "category_id": 247,
+          "status": 102,
+          "has_comments": 1,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "已发表",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 320,
+              "title": "才艺"
+            },
+            {
+              "type": 2,
+              "id": 247,
+              "title": "吧:才艺视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 3435319169,
+              "title": "作者:影影夜绘画工作室"
+            }
+          ],
+          "play_count": 1146138,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f380008b7265cb855f0"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f380008b7265cb855f0"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f380008b7265cb855f0"
+              }
+            ],
+            "uri": "medium/f380008b7265cb855f0"
+          },
+          "user_digg": 0,
+          "video_width": 360,
+          "online_time": 1476282446,
+          "category_name": "才艺视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 1412,
+          "is_anonymous": false,
+          "repin_count": 3396,
+          "uri": "4ac8083bdcf54dfd9e43187bbfeb2297",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 360,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=4ac8083bdcf54dfd9e43187bbfeb2297&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=4ac8083bdcf54dfd9e43187bbfeb2297&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/4ac8083bdcf54dfd9e43187bbfeb2297",
+            "height": 360
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51465946727,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [
+          {
+            "text": "让我想起了我人生中第一大仇人:  尹志平",
+            "create_time": 1476242871,
+            "user_verified": true,
+            "user_bury": 0,
+            "user_id": 5988293609,
+            "bury_count": 0,
+            "share_url": "http://m.neihanshequ.com/share/group/51465946727/?comment_id=51501552479",
+            "id": 51501552479,
+            "platform": "feifei",
+            "is_digg": 0,
+            "user_name": "清零_",
+            "user_profile_image_url": "http://wx.qlogo.cn/mmopen/4elbQCnSaLJ7VWaYQj1YcNkias0y4TiaIFt2cmmSmADfqPG2rx48icicFn6zcAltc5TmN6YToIQSe7iat8oKTczXVdrQDCBeNRuc2/46",
+            "status": 5,
+            "description": "快了活在当下，尽心便是完美...",
+            "comment_id": 51501552479,
+            "user_digg": 0,
+            "user_profile_url": "",
+            "share_type": 1,
+            "digg_count": 41934,
+            "platform_id": "feifei",
+            "avatar_url": "http://wx.qlogo.cn/mmopen/4elbQCnSaLJ7VWaYQj1YcNkias0y4TiaIFt2cmmSmADfqPG2rx48icicFn6zcAltc5TmN6YToIQSe7iat8oKTczXVdrQDCBeNRuc2/46",
+            "group_id": 51465946727
+          }
+        ],
+        "type": 1,
+        "display_time": 1477019536.8200002,
+        "online_time": 1477019536.8200002
+      },
+      {
+        "group": {
+          "360p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=b395333012304d0b9bb1c45cf354b3d0&quality=360p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=b395333012304d0b9bb1c45cf354b3d0&quality=360p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "360p/b395333012304d0b9bb1c45cf354b3d0",
+            "height": 352
+          },
+          "mp4_url": "http://ic.snssdk.com/neihan/video/playback/?video_id=b395333012304d0b9bb1c45cf354b3d0&quality=480p&line=0&is_gif=0.mp4",
+          "text": "17款只有80 90后的人玩过游戏，看着有些感动，太多回忆，那是我们逝去的青春。",
+          "720p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=b395333012304d0b9bb1c45cf354b3d0&quality=720p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=b395333012304d0b9bb1c45cf354b3d0&quality=720p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "720p/b395333012304d0b9bb1c45cf354b3d0",
+            "height": 352
+          },
+          "digg_count": 8999,
+          "duration": 224.8,
+          "480p_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=b395333012304d0b9bb1c45cf354b3d0&quality=480p&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=b395333012304d0b9bb1c45cf354b3d0&quality=480p&line=1&is_gif=0"
+              }
+            ],
+            "uri": "480p/b395333012304d0b9bb1c45cf354b3d0",
+            "height": 352
+          },
+          "create_time": 1476840552,
+          "keywords": "",
+          "id": 51688625819,
+          "favorite_count": 1385,
+          "go_detail_count": 26544,
+          "m3u8_url": "",
+          "large_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/large/f87000fb5f82eb9ee4b"
+              },
+              {
+                "url": "http://pb2.pstatp.com/large/f87000fb5f82eb9ee4b"
+              },
+              {
+                "url": "http://pb3.pstatp.com/large/f87000fb5f82eb9ee4b"
+              }
+            ],
+            "uri": "large/f87000fb5f82eb9ee4b"
+          },
+          "user_favorite": 0,
+          "share_type": 1,
+          "title": "17款只有80 90后的人玩过游戏，看着有些感动，太多回忆，那是我们逝去的青春。",
+          "user": {
+            "user_id": 51500947984,
+            "name": "用户133278686",
+            "followings": 0,
+            "ugc_count": 6,
+            "avatar_url": "http://p1.pstatp.com/thumb/ef3000453e8766967da",
+            "followers": 28,
+            "is_following": false,
+            "user_verified": false
+          },
+          "is_can_share": 1,
+          "category_type": 1,
+          "share_url": "http://m.neihanshequ.com/share/group/51688625819/?iid=2767929313&app=joke_essay",
+          "label": 1,
+          "content": "17款只有80 90后的人玩过游戏，看着有些感动，太多回忆，那是我们逝去的青春。",
+          "video_height": 352,
+          "comment_count": 2419,
+          "cover_image_uri": "f87000fb5f82eb9ee4b",
+          "id_str": "51688625819",
+          "media_type": 3,
+          "share_count": 4847,
+          "type": 2,
+          "category_id": 254,
+          "status": 112,
+          "has_comments": 0,
+          "publish_time": "",
+          "user_bury": 0,
+          "status_desc": "热门投稿",
+          "dislike_reason": [
+            {
+              "type": 1,
+              "id": 435,
+              "title": "游戏"
+            },
+            {
+              "type": 2,
+              "id": 254,
+              "title": "吧:游戏视频"
+            },
+            {
+              "type": 4,
+              "id": 0,
+              "title": "内容重复"
+            },
+            {
+              "type": 3,
+              "id": 51500947984,
+              "title": "作者:用户133278686"
+            }
+          ],
+          "play_count": 264850,
+          "user_repin": 0,
+          "medium_cover": {
+            "url_list": [
+              {
+                "url": "http://p3.pstatp.com/w202/f87000fb5f82eb9ee4b"
+              },
+              {
+                "url": "http://pb2.pstatp.com/w202/f87000fb5f82eb9ee4b"
+              },
+              {
+                "url": "http://pb3.pstatp.com/w202/f87000fb5f82eb9ee4b"
+              }
+            ],
+            "uri": "medium/f87000fb5f82eb9ee4b"
+          },
+          "user_digg": 0,
+          "video_width": 640,
+          "online_time": 1477011323,
+          "category_name": "游戏视频",
+          "flash_url": "",
+          "category_visible": true,
+          "bury_count": 327,
+          "is_anonymous": false,
+          "repin_count": 1385,
+          "uri": "b395333012304d0b9bb1c45cf354b3d0",
+          "is_public_url": 1,
+          "has_hot_comments": 1,
+          "allow_dislike": true,
+          "origin_video": {
+            "width": 640,
+            "url_list": [
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=b395333012304d0b9bb1c45cf354b3d0&quality=origin&line=0&is_gif=0"
+              },
+              {
+                "url": "http://ic.snssdk.com/neihan/video/playback/?video_id=b395333012304d0b9bb1c45cf354b3d0&quality=origin&line=1&is_gif=0"
+              }
+            ],
+            "uri": "origin/b395333012304d0b9bb1c45cf354b3d0",
+            "height": 352
+          },
+          "cover_image_url": "",
+          "activity": {},
+          "group_id": 51688625819,
+          "is_video": 1,
+          "display_type": 0
+        },
+        "comments": [],
+        "type": 1,
+        "display_time": 1477019536.8100002,
+        "online_time": 1477019536.8100002
+      }
+    ]
+  }
+}
